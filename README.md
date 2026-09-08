@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abu Talha 👋
 
-<!--
-**abutalha5296/abutalha5296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Pharm Graduate | Aspiring Clinical Data & SAS Programmer
 
-Here are some ideas to get you started:
+🔬 Currently learning *SAS Programming* and R. for Clinical Research, with a foundation in Pharmacy and QC/GMP practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Interested in: Pharmacovigilance • Clinical Data Management • Drug Safety • SAS Programming
+
+📚 Background:
+- B.Pharm, Usha Martin University
+- 500-hour Hospital Pharmacist Practical Training, Sadar Hospital, Ranchi
+- Industrial training in QC/Manufacturing, Onex Pharmaceutical
+
+🛠️ Currently building:
+- SAS and R scripts and clinical data practice projects (documented in this repo)
+
+📫 Reach me: www.linkedin.com/in/abu-talha-ansari-733424237 
+
+⭐ Open to entry-level opportunities in CRO / Pharma data roles
